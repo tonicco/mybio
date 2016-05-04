@@ -1,2 +1,4 @@
 # mybio
-Description of lance holroyd
+Bio for lance holroyd
+
+I'm lance, and I'm awesome.
